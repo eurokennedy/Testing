@@ -1,3 +1,5 @@
+package DemoTesting;
+
 import org.junit.After;
 import org.junit.BeforeClass;
 import org.junit.Test;
