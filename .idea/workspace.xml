@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b618efea-a46c-4ae0-b430-2859c14e4090" name="Default" comment="Uploading ShopStuff">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/AutomationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/ContactPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/DressPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/HomePage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/LoginPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/PaymentPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Shopping/SearchPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/sup1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/supaa.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoAddPage.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/DemoAddPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoHomePage.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/DemoHomePage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoLoginPage.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/DemoLoginPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoNavPage.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/DemoNavPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoTest.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/DemoTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExtentReport.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/ExtentReport.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JUnitExample.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/JUnitExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/LoginTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ScreenShot.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/ScreenShot.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SpreadSheetReader.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/SpreadSheetReader.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Web.java" afterPath="$PROJECT_DIR$/src/test/java/DemoTesting/Web.java" />
-      <change beforePath="$PROJECT_DIR$/sup.jpg" afterPath="$PROJECT_DIR$/sup.jpg" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoAddPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoHomePage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoLoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoNavPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExtentReport.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JUnitExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ScreenShot.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SpreadSheetReader$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SpreadSheetReader.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Web.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,8 +114,8 @@
       <file leaf-file-name="DemoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoTesting/DemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#807#808#0" expanded="true" />
@@ -254,6 +263,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="DemoTesting" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testingweek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testingweek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -265,6 +282,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -520,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518541935295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Uploading ShopStuff">
+      <created>1518619945355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518619945355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -954,18 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTesting/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -980,26 +993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/ContactPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1024,6 +1017,46 @@
     <entry file="file://$PROJECT_DIR$/supaa.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoTesting/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/ContactPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Shopping/AutomationTest.java">
